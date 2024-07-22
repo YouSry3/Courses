@@ -1,0 +1,18 @@
+/* li a{
+  color: #0fa26000 !important;
+} */
+
+
+a#face:hover{
+  color: blue;
+
+}
+a#Instagram:hover {
+   color: red;
+}
+a#GitHub:hover {
+  color: black;
+}
+a#youtube:hover{
+  color: red;
+}
